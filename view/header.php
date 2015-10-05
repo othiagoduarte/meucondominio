@@ -9,6 +9,7 @@
 
 <!-- Custom CSS -->
 <link href="css/painelControle.css" rel="stylesheet">
+<link href="css/plugins/palette.css" rel="stylesheet">
 
 <!-- Morris Charts CSS -->
 <link href="css/plugins/morris.css" rel="stylesheet">
